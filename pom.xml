@@ -83,10 +83,10 @@
     </pluginManagement>
   </build>
   <distributionManagement>
-    <snapshotRepository>
+    <project-1repository>
       <id>nexus</id>
-      <name>Snapshot</name>
-      <url>http://3.110.220.181:8081/repository/maven-snapshots/</url>
-    </snapshotRepository>
+      <name>project-1</name>
+      <url>http://65.0.103.144:8081/repository/project-1/</url>
+    </project-1repository>
   </distributionManagement>
 </project>
